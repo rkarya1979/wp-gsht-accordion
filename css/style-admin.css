@@ -1,0 +1,13 @@
+/* css class*/
+
+a.gsht_media_link:hover span, a.gsht_media_link:hover span, #media-buttons a.gsht_media_link:hover span {
+    background-image: url(../images/btngshton.png);
+}
+a.gsht_media_link span, a.gsht_media_link span, #media-buttons a.gsht_media_link span {
+    background: transparent url(../images/btngshtoff.png) no-repeat scroll top left;
+    display: inline-block;
+    height: 16px;
+    margin: 5px 2px 0 0;
+    vertical-align: top;
+    width: 16px;
+}
